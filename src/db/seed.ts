@@ -18,7 +18,7 @@ await seed(db, schema).refine((f) => {
       count: 20,
     },
   }
-});
+})
 
 await sql.end();
 

@@ -8,6 +8,13 @@
       "when": 1752014611365,
       "tag": "0000_special_bulldozer",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752070789080,
+      "tag": "0001_light_night_nurse",
+      "breakpoints": true
     }
   ]
 }
